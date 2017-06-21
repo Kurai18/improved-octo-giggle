@@ -1,4 +1,4 @@
-# improved-octo-giggle
+# Nekohime
 
 Nekohime's Setup
 
